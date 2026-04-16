@@ -28,3 +28,6 @@ And to upload:\
 git add .\
 git commit -m "I did whatever"\
 git push
+
+<img width="500" height="500" alt="FISH" src="https://github.com/user-attachments/assets/557ddac5-de3a-4305-8b99-ca188f920112" />
+
