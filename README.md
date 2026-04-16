@@ -13,7 +13,7 @@ Isaac - designing maps or maybe characters in blender\
 Pablo - designing characters and stuff in blender\
 Anyone else - record voice lines and create character ideas
 
-How to use git:\
+# How to use git:\
 Git downloads the entire github repo onto your computer and can update it with new files. to download all files, use these commands:\
 cd /c/wherever/you/want/it/\
 git clone https://github.com/Isaac438/Benjamin-Netanyahu-s-Solid-Color-Seven-Siege  
