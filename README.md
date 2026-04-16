@@ -5,6 +5,7 @@ Announcements:
 
 Alex got a game running but its js moving and jumping so were basically AAA now\
 We need to add triple t as a character
+We should probaly change the name if we actually wanna release this
 
 Jobs so far:\
 Alex - Setting up stuff in godot\
