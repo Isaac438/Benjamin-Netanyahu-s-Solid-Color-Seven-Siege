@@ -2,7 +2,10 @@
 r6 ripoff
 
 Announcements:\
+
 Alex got a game running but its js moving and jumping so were basically AAA now\
+We need to add triple t as a character
+
 Jobs so far:\
 Alex - Setting up stuff in godot\
 Jayden - Git? idk maybe helping with godot\
