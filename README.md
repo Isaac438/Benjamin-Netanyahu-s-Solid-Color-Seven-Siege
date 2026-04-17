@@ -6,7 +6,7 @@ r6 ripoff
 Alex got a game running but its js moving and jumping so were basically AAA now\
 We need to add triple t as a character\
 We should probaly change the name if we actually wanna release this\
-"it's not a bug it's a feature"\
+"it's not a bug it's a feature"
 
 Jobs so far:\
 Alex - Setting up stuff in godot\
